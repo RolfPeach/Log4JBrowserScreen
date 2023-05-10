@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.codingsolo.seleniumkurs.test.Test4Form1SeleniumKursIE
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.828 s - in de.codingsolo.seleniumkurs.test.Test4Form1SeleniumKursIE
